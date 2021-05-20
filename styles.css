@@ -75,7 +75,7 @@ a:hover {
 
     @keyframes an1 {
       from {left: 0px;}
-      to {left: 40%;}
+      to {left: 100%;}
     }
 
     .satellite1 {
